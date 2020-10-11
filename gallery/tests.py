@@ -1,6 +1,11 @@
 from django.test import TestCase
 from .models import Image, Category, Location
 
+# Create your tests here.
+class ImageTestClass(TestCase):
+    def setUp(self):
+        self.blackpanther = Image(name = 'blackpanther', description = 'a black panther poster')
+        self.blackpanther.save_image()
 
     def test_instance(self):
         self.assertTrue(isinstance(self.blackpanther, Image))
