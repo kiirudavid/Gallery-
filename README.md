@@ -1,5 +1,5 @@
 # Gallery
- <imgs src="./p.png">
+ <img src="./p.png">
 
 
 #### By:
