@@ -1,17 +1,15 @@
-# Tambua Kenya
- <img src="./p.png">
+# Gallery
+ <!-- <img src="./p.png"> -->
 
 
 #### By:
-1. Joseph Nganga ; lead developer
-1. Moringa TM's ; Mentors
-1. Moringa Students ; Assistant designers
+1. David kiiru
 
 ### Description  
 This is an application that enables users to view different categories of images per locations and also able to copy the link and share it to other friends.
 
 ### Deployed link
-<a href="https://django-data.herokuapp.com/"> The link</a>
+<!-- <a href="https://django-data.herokuapp.com/"> The link</a> -->
 
 
 ### BDD
@@ -72,13 +70,12 @@ Open the application on your browser `127.0.0.1:8000`.
 ## Support and contact details
 call me on
 
-<img src="https://bit.ly/2H4L6UZ" width="109" style="border-radius:50%;">:0798734442
+<img src="https://bit.ly/2H4L6UZ" width="109" style="border-radius:50%;">:0713275530
 
-<img src="https://bit.ly/383xk0Z" width="109" style="border-radius:50%;">:0778378174
- 
- <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:nungari100@gmail.com
+
+ <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:davidmaina085@gmail.com
 
 ## License
 
 [MIT License](LICENSE.md)
-Copyright (c) [2020] [Joseph Nganga]
+Copyright (c) [2020] [David Maina]
